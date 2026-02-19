@@ -9,6 +9,8 @@ I'm passionate about technology and a Cloud enthusiastic, certified as an AWS So
 <h3 align="left">My Projects</h3>
 
 - [DevOps](https://github.com/MarceloKawasaki/DevOps-Projects)
+
+- [DevOps Bootcamp - Techworld with Nana](https://github.com/MarceloKawasaki/DevOps-Bootcamp)
   
 - [AWS Solutions Architect](https://github.com/MarceloKawasaki/AWS-SolutionsArchitectAssociate-Projects)
 <br>
